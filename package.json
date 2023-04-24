@@ -1,8 +1,8 @@
 {
   "name": "patienceman-bugpack",
   "version": "1.0.0",
-  "description": "Allow to organize, read and access laravel validation errors",
-  "main": "bugpack.js",
+  "description": "Different approaches to validate and get your application's incoming error responses from laravel",
+  "main": "src/bugpack.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/manirabona-programer/bugpack.git"
